@@ -1,0 +1,10 @@
+streamlit # For building web apps
+pdfplumber # For extracting text from PDFs
+langchain # For building LLM applications
+langchain-openai # For using OpenAI models
+langchain-community # For using community-contributed components
+langchain-core # LangChain core components
+langchain-text-splitters # For splitting text into chunks
+openai # For using OpenAI models
+faiss-cpu # For using FAISS for vector search
+tiktoken # For using OpenAI's tokenizer
